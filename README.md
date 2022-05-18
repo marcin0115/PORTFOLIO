@@ -12,7 +12,7 @@ Sections:
 * 'Projects' contain four exemplary aplications running on JS, jQ and/or React.
 * In 'Contact' we have icon-link to my GitHub with more projects. I also included an exemplary contact form that appears as a pop-up and a short CV.
 
-In the project I used the jQuery library many times, in order to show my skills in this technology.
+In the project I used the jQuery library many times in order to show my skills in this technology.
 
 
 ## Technologies
@@ -21,7 +21,6 @@ Project is created with:
 * CSS 3
 * JavaScript ES6
 * jQuery
-* 
 
 ### Website link:
 https://marcin0115.github.io/marcin0115.github.io-project5-PORTFOLIO/
